@@ -20,6 +20,8 @@ Com suporte nativo a projetos estruturados em **HTML estático** e integração 
 
 ---
 
+## Download >>> https://github.com/fellipe0244/Monitor/releases/tag/version 
+
 ## 🛠️ Arquitetura Técnica
 
 O projeto é baseado no ecossistema do Node.js utilizando os seguintes pilares:
