@@ -39,7 +39,7 @@ Com suporte nativo a projetos estruturados em **HTML estático** e integração 
 * **Possibilidade de utilizar com Pastas de Projetos Locais e Externos (File Server, Nuvens em Geral):**
 <img width="1351" height="1007" alt="image" src="https://github.com/user-attachments/assets/e8de34dd-2f85-492e-9a50-43ec5ae73494" />
 
-* **Nos extensoes de arquivos, Java, JS, Python, e PowerShell, um Preview exclusivo, está sendo desenvolvido:** No momento ainda não é exibido nada no lado direito ao monitorar arquivos com essas extensoes.
+* **Nas extensoes de arquivos, Java, JS, Python, e PowerShell, um Preview exclusivo, está sendo desenvolvido:** No momento ainda não é exibido nada no lado direito ao monitorar arquivos com essas extensoes.
 <img width="1816" height="831" alt="image" src="https://github.com/user-attachments/assets/9ad5b2a8-5133-4627-8118-b2482e53d467" />
 <img width="1757" height="802" alt="image" src="https://github.com/user-attachments/assets/ddf9d3da-8cdd-4dc1-9dd7-b774e2e0597c" />
 <img width="1766" height="796" alt="image" src="https://github.com/user-attachments/assets/09d47cc0-bb06-46a3-9303-7390c96e394d" />
