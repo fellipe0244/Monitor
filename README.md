@@ -12,6 +12,7 @@ Com suporte nativo a projetos estruturados em **HTML estático** e integração 
 * **Modo Duplo de Preview:**
     * *Modo HTML:* Identifica e abre arquivos locais instantaneamente.
     * *Modo PHP:* Conecta-se à sua porta local (XAMPP, Docker, Wamp) para processar scripts dinâmicos no servidor local.
+* **Identificador de extensao:** O programa identifica automaticamente, as extensoes (java, java script, python, php, css, html, powershell para linhas de comando) - em desenvolvimento outras extensoes. 
 * **Rastreamento de Alterações Estreito:** O console interno exibe a linha exata que foi modificada, identificando a linguagem e classificando o impacto do código (Estrutural, Estilo, Título, Texto ou Funções).
 * **Scroll & Destaque Automático:** Ao salvar uma alteração no seu editor de código, o preview rola suavemente até o elemento alterado e aplica um contorno azul temporário de destaque.
 * **Menu de Configurações Integrado:** Sistema de onboarding com tutorial interativo de 5 passos salvos em cache no diretório do usuário para não incomodar após o primeiro acesso.
